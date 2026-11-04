@@ -4,3 +4,9 @@ __pycache__/
 .venv/
 Thumbs.db
 ~$*
+.batch_built
+Speaker_Only/
+.sixth/
+_tmp/
+*.log
+.env
